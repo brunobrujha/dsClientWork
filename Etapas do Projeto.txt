@@ -1,0 +1,22 @@
+Etapas da criacao do trabalho
+
+1. Criar o repositorio - Feito
+
+2. Criar o projeto - Feito
+
+3. Criar os arquivos de configuracao - Feito
+
+4. Criar as entidades - Feito
+
+5. Criar o Repositorio - Feito
+
+6. Criar o DTO - 
+
+7. Criar o servico
+
+8. Criar os Resources (Endpoints)
+
+9. Criar Seed de Bamco
+
+10. Criar o catalogo do POstman
+
